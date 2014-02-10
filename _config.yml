@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Varun Rau
 tagline:          'A Cool Guy'
-description:      'CS Student at Berkeley'
+description:      'Computer Science Student at UC Berkeley. Loves Programming, People, and Pies.'
 url:              http://varunrau.com
 
 author:
@@ -16,9 +16,3 @@ author:
   url:            https://varunrau.com
 
 paginate:         5
-
-# Custom vars
-version:          2.0.0
-
-github:
-  repo:           https://github.com/varunrau
